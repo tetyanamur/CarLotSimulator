@@ -18,7 +18,7 @@ namespace CarLotSimulator
             var Nissan = new Car
             { Year = 2018,
             Make = "Nissan",
-            Model = "Elantra",
+            Model = "Altima",
             EngineNoise = "Broom",
             HonkNoise = "Brrr",
             IsDriveable = true
